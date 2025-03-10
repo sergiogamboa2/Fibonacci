@@ -4,7 +4,7 @@ print('Hello, ' + os.getlogin() + '! How are you?')
 import sys
 
 def function1():
-    nterms = int(input("Please enter the how many numbersto calculate: "))
+    nterms = int(input("Please enter the how many numbers to calculate: "))
 
     # first two terms
     n1, n2 = 0, 1
